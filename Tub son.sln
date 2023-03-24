@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tub son", "Tub son\Tub son.csproj", "{2B35936E-E1FD-404E-B6E6-E5DF1AF68CE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B35936E-E1FD-404E-B6E6-E5DF1AF68CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B35936E-E1FD-404E-B6E6-E5DF1AF68CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B35936E-E1FD-404E-B6E6-E5DF1AF68CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B35936E-E1FD-404E-B6E6-E5DF1AF68CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1010A856-787C-4E8E-9902-B8C395DA1D18}
+	EndGlobalSection
+EndGlobal
